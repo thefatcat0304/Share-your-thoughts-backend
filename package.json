@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "json-server db.json --host 0.0.0.0 --port $PORT --no-static",
+    "start": "json-server db.json --host 0.0.0.0 --port $PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
